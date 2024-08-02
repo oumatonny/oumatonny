@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tonny Ouma
 - 📫 How to reach me ... oumatonny8@gmail.com | +254742942435 | oumatonny.github.io | www.nest.co.ke
-- https://gitroll.io/profile/uX61SiTv7FmS7lCCfmQXFPBVTzTX2/edit
+- <a href="https://gitroll.io/profile/uX61SiTv7FmS7lCCfmQXFPBVTzTX2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uX61SiTv7FmS7lCCfmQXFPBVTzTX2" alt="GitRoll Profile Badge"/></a>
 <!---
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
