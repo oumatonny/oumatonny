@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tonny Ouma
-- 📫 How to reach me ... oumatonny8@gmail.com | +254742942435 | oumatonny.github.io | nest.co.ke
+- 📫 How to reach me ... oumatonny8@gmail.com | +254742942435 | oumatonny.github.io | www.nest.co.ke
 <!---
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
